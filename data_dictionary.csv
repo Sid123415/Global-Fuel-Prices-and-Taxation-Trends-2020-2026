@@ -1,0 +1,11 @@
+field,type,definition
+country,Text,"Country label; demo names, not necessarily official source names"
+region,Text,One of seven broad regions
+year,Integer,"Calendar year, 2020–2026"
+quarter,Integer,Quarter 1–4
+fuel_type,Category,"Petrol, Diesel, LPG"
+price_usd_per_litre,Decimal,Simulated retail-like price in USD per litre
+estimated_tax_share_pct,Decimal,Simulated tax share percentage
+estimated_subsidy_share_pct,Decimal,Simulated subsidy share percentage
+income_group,Category,Simplified illustrative income group
+data_status,Text,Always SIMULATED DEMO DATA for this file
